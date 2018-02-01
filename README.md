@@ -1,3 +1,1 @@
-node_modules/
-build/
-.idea/
+#First stab at building a DEX
